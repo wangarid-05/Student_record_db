@@ -21,4 +21,4 @@ The **Student Record System** is a database management system built using MySQL.
 ### Steps to run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-record-system.git
+   git clone https://github.com/wangarid-05/Student_record_db.git
